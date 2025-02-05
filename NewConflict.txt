@@ -1,0 +1,12 @@
+data = [
+    {
+        Name: "Tanmay",
+        Course: "BCA",
+        Year: "First Year",
+    }
+    {
+        Name: "Saksham Tale",
+        Course: "B.Tech",
+        Year: "First Year",
+    }
+]
