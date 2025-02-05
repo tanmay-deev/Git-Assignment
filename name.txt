@@ -1,0 +1,19 @@
+Name: Tanmay Bonde
+Friends: [
+    {
+        Name: "Saksham Tale",
+        Position: "Best Friend",
+    },
+    {
+        Name: "Yashika",
+        Position: "Friend",
+    },
+    {
+        Name: "Mohit"
+        Position: "Bhai",
+    },
+    {
+        Name: "Nandini",
+        Position: "Sister",
+    }
+]
