@@ -5,12 +5,15 @@ Friends: [
         Position: "Best Friend",
     },
     {
-        Name: "Yashika"
+        Name: "Yashika",
+        Position: "Friend",
     },
     {
         Name: "Mohit"
+        Position: "Bhai",
     },
     {
-        Name: "Nandini"
+        Name: "Nandini",
+        Position: "Sister",
     }
 ]
